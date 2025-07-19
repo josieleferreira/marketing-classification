@@ -1,0 +1,151 @@
+projeto,produto,tipo,tema,clima,investimento,alcance,engajamento,sentimento,edicao_repetida,resultado_anterior,inovacao,sucesso
+Carnaval 2024,CARNA2024,Evento,Festivo,ensolarado,40000.0,15000.0,20000.0,neutro,Sim,bom,2.0,Sim 
+Carnaval 2025,CARNA2025,Evento,Festivo,nublado,20000.0,30000.0,100000.0,positivo,Sim,ruim,2.0,Não
+Destino SC Verão 2025,DESTI2025,Turístico,Turismo,nublado,50000.0,20000.0,11097.9594913676,positivo,Sim,ruim,3.0,Sim
+Destino de Inverno 2024,DESINV2024,Turístico,Turismo,frio,15000.0,10000.0,5952.031201395177,negativo,Sim,não se aplica,3.0,Sim
+Em evidência,EVIDENCIA,Ativação,Diversidade,chuvoso,20000.0,20000.0,5607.226171753879,neutro,Sim,excelente,4.0,Sim
+Campanha do Agasalho 2023,CAMAGA2023,Social,Social,quente,15000.0,10000.0,4217.736253473424,positivo,Não,não se aplica,1.0,Sim
+Campanha do Agasalho 2024,CAMAGA2024,Social,Social,frio,30000.0,15000.0,4629.228283179786,negativo,Sim,ruim,4.0,Não
+Pets News,PETSNE,Ativação,Notícias,frio,15000.0,15000.0,8909.409790290902,negativo,Não,não se aplica,4.0,Não
+Baby News,BABYNE,Ativação,Notícias,frio,50000.0,10000.0,3888.66685620617,positivo,Não,ruim,4.0,Sim
+Mundial Rock 2023,MROCK23,Evento,Comunidade,chuvoso,50000.0,30000.0,14394.40539635754,neutro,Sim,não se aplica,2.0,Não
+Mundial Rock 2024,MROCK24,Social,Comunidade,tempo bom,50000.0,10000.0,4059.434294283163,negativo,Sim,ruim,5.0,Não
+Campanha do Agasalho 2023 - 2,CAMAGA2023-97,Social,Social,nublado,13982.914289513586,8950.759555125132,4312.680880302878,neutro,Sim,excelente,3.0,Sim
+Campanha do Agasalho 2024 - 16,CAMAGA2024-81,Social,Social,nublado,30459.89372688478,13054.659636367365,3269.418311873638,negativo,Não,excelente,3.0,Não
+Baby News - 8,BABYNE-45,Ativação,Notícias,nublado,47579.12757930398,11990.512728441401,4823.699441296742,negativo,Sim,ruim,1.0,Não
+Destino SC Verão 2025 - 12,DESTI2025-10,Turístico,Turismo,ensolarado,56312.694743590175,18646.438987247104,9451.625646687202,positivo,Sim,excelente,5.0,Não
+Campanha do Agasalho 2024 - 15,CAMAGA2024-53,Social,Social,ensolarado,33741.00298730553,16715.481728328716,3383.921902831842,negativo,Sim,excelente,5.0,Sim
+Em evidência - 1,EVIDENCIA-75,Ativação,Diversidade,nublado,18796.562924863047,20236.193096460236,5819.392891268212,positivo,Sim,ruim,5.0,Não
+Carnaval 2025 - 8,CARNA2025-99,Evento,Festivo,ensolarado,19705.463414053913,35542.17152832091,99913.69218222536,neutro,Não,ruim,3.0,Não
+Mundial Rock 2023 - 9,MROCK23-53,Evento,Comunidade,nublado,58427.731973540605,29449.227545781738,16977.982529172972,neutro,Não,não se aplica,4.0,Não
+Carnaval 2025 - 13,CARNA2025-48,Evento,Festivo,frio,16440.099611265334,25982.430041001953,92025.65587175247,negativo,Sim,não se aplica,1.0,Não
+Mundial Rock 2023 - 16,MROCK23-58,Evento,Comunidade,chuvoso,50324.06156519534,26189.713255390685,16010.974136352894,neutro,Sim,não se aplica,4.0,Não
+Carnaval 2025 - 15,CARNA2025-37,Evento,Festivo,chuvoso,23271.202391760868,26878.83100903302,74152.72421821622,positivo,Não,ruim,2.0,Sim
+Destino SC Verão 2025 - 19,DESTI2025-49,Turístico,Turismo,nublado,50296.19469630167,22640.03992903134,10192.530164661934,positivo,Não,bom,4.0,Sim
+Mundial Rock 2024 - 10,MROCK24-33,Social,Comunidade,nublado,54623.657157173075,9433.816506113439,4592.306722955063,positivo,Não,ruim,3.0,Sim
+Destino SC Verão 2025 - 1,DESTI2025-76,Turístico,Turismo,frio,57377.83389503249,18378.903211145192,12264.757875248944,negativo,Sim,excelente,5.0,Não
+Destino de Inverno 2024 - 4,DESINV2024-34,Turístico,Turismo,nublado,14389.975365628994,9409.237313036583,6612.362769319007,positivo,Não,excelente,2.0,Sim
+Mundial Rock 2024 - 17,MROCK24-92,Social,Comunidade,frio,45817.219857455646,11613.628640657274,4161.349304134012,neutro,Sim,não se aplica,5.0,Sim
+Destino SC Verão 2025 - 5,DESTI2025-27,Turístico,Turismo,chuvoso,46869.02548633257,22448.011406197842,11447.491863103658,negativo,Sim,bom,2.0,Sim
+Campanha do Agasalho 2023 - 10,CAMAGA2023-84,Social,Social,frio,16848.101398600735,11223.5253721836,2998.39825055593,positivo,Não,não se aplica,1.0,Sim
+Campanha do Agasalho 2024 - 19,CAMAGA2024-70,Social,Social,nublado,28208.502529601334,15129.771841894251,5822.933135463183,positivo,Não,excelente,5.0,Sim
+Destino de Inverno 2024 - 20,DESINV2024-16,Turístico,Turismo,nublado,16500.1707234917,8032.050954054412,5244.636414698179,neutro,Não,bom,4.0,Sim
+Destino SC Verão 2025 - 3,DESTI2025-65,Turístico,Turismo,frio,55819.78681566199,16463.112466335344,11344.310275828491,neutro,Sim,bom,1.0,Não
+Pets News - 7,PETSNE-45,Ativação,Notícias,frio,15736.239352276334,14791.332020740725,10709.485095056229,neutro,Não,bom,1.0,Sim
+Campanha do Agasalho 2024 - 6,CAMAGA2024-38,Social,Social,chuvoso,25194.77940582403,12726.982797859448,5145.596308198256,neutro,Não,bom,2.0,Sim
+Baby News - 16,BABYNE-54,Ativação,Notícias,chuvoso,45086.69014732616,10791.536101909165,3359.139507655691,neutro,Sim,excelente,5.0,Não
+Destino SC Verão 2025 - 16,DESTI2025-99,Turístico,Turismo,chuvoso,42822.38174122873,21819.23795443304,13172.736354090459,negativo,Sim,excelente,3.0,Sim
+Destino de Inverno 2024 - 2,DESINV2024-94,Turístico,Turismo,frio,13447.219474518855,8932.598848620864,7703.773400616786,neutro,Não,excelente,1.0,Sim
+Mundial Rock 2023 - 7,MROCK23-34,Evento,Comunidade,ensolarado,47254.21658714123,27597.52212382536,15938.879625654408,neutro,Sim,ruim,1.0,Não
+Destino de Inverno 2024 - 9,DESINV2024-47,Turístico,Turismo,frio,13467.58629091942,9779.35660837632,7349.366435873944,negativo,Sim,excelente,5.0,Não
+Destino SC Verão 2025 - 14,DESTI2025-61,Turístico,Turismo,nublado,41696.31406713806,19728.550141220254,7975.14651600706,positivo,Não,ruim,4.0,Sim
+Campanha do Agasalho 2024 - 1,CAMAGA2024-32,Social,Social,ensolarado,25545.541578469943,16835.63178233188,4991.668147918216,negativo,Não,excelente,1.0,Não
+Destino de Inverno 2024 - 3,DESINV2024-54,Turístico,Turismo,ensolarado,16680.54921944214,10176.381646421558,4451.4489083085355,positivo,Não,bom,5.0,Não
+Mundial Rock 2023 - 4,MROCK23-11,Evento,Comunidade,frio,44220.58141025707,28717.058325949074,11887.034857013818,neutro,Sim,bom,2.0,Não
+Carnaval 2025 - 11,CARNA2025-95,Evento,Festivo,chuvoso,18487.08898730311,33668.097187269115,128304.22491963436,neutro,Sim,não se aplica,1.0,Sim
+Campanha do Agasalho 2023 - 18,CAMAGA2023-38,Social,Social,chuvoso,15355.956221882925,8512.38378019655,4163.275048891347,neutro,Sim,não se aplica,2.0,Sim
+Carnaval 2025 - 17,CARNA2025-94,Evento,Festivo,ensolarado,17215.947695557756,29270.56970039391,78578.60875103537,negativo,Sim,ruim,3.0,Sim
+Campanha do Agasalho 2023 - 2,CAMAGA2023-93,Social,Social,frio,16453.895154980986,8750.537728099662,5469.230698749703,positivo,Não,não se aplica,3.0,Sim
+Em evidência - 17,EVIDENCIA-98,Ativação,Diversidade,nublado,17434.79277104605,20380.754672126335,5892.839850859996,neutro,Sim,bom,4.0,Não
+Mundial Rock 2023 - 2,MROCK23-47,Evento,Comunidade,frio,42707.77016342385,27735.63791225579,12513.829992325349,neutro,Não,bom,2.0,Sim
+Destino de Inverno 2024 - 18,DESINV2024-41,Turístico,Turismo,nublado,14143.042801947915,8316.364471474124,4354.364883315531,neutro,Sim,excelente,3.0,Sim
+Em evidência - 5,EVIDENCIA-21,Ativação,Diversidade,nublado,21735.305570235556,18576.6801831622,7279.086383119939,positivo,Sim,excelente,3.0,Sim
+Destino de Inverno 2024 - 10,DESINV2024-90,Turístico,Turismo,chuvoso,15978.059023473841,10737.90635169625,7097.216015789501,neutro,Não,não se aplica,1.0,Não
+Campanha do Agasalho 2024 - 2,CAMAGA2024-62,Social,Social,frio,27677.062504238387,14279.398112017121,4363.792972067215,negativo,Sim,ruim,3.0,Não
+Campanha do Agasalho 2024 - 10,CAMAGA2024-57,Social,Social,nublado,29842.889120319625,15210.334944449,3689.480007627587,positivo,Sim,ruim,3.0,Sim
+Campanha do Agasalho 2024 - 11,CAMAGA2024-17,Social,Social,frio,33587.49497846665,12366.2685233446,3692.680075481132,positivo,Sim,ruim,4.0,Sim
+Campanha do Agasalho 2023 - 7,CAMAGA2023-97,Social,Social,ensolarado,17443.950013632588,9759.090243267958,5099.187629329364,negativo,Não,não se aplica,2.0,Sim
+Carnaval 2025 - 14,CARNA2025-93,Evento,Festivo,chuvoso,21335.660337385038,25446.114054564045,85144.1321451772,positivo,Não,excelente,1.0,Não
+Mundial Rock 2024 - 12,MROCK24-39,Social,Comunidade,frio,59086.69940537439,8822.487223355618,4413.02566127419,negativo,Sim,excelente,2.0,Não
+Destino SC Verão 2025 - 11,DESTI2025-51,Turístico,Turismo,chuvoso,52942.83363186475,20651.671485544302,7801.072861568298,neutro,Não,não se aplica,1.0,Não
+Em evidência - 11,EVIDENCIA-47,Ativação,Diversidade,ensolarado,23824.185149241413,21942.05766328946,7188.520739302152,positivo,Sim,ruim,2.0,Sim
+Carnaval 2024 - 20,CARNA2024-53,Evento,Festivo,ensolarado,43172.845538155,15882.171333284456,24366.40949467871,neutro,Sim,excelente,5.0,Sim
+Destino SC Verão 2025 - 8,DESTI2025-13,Turístico,Turismo,nublado,41754.64661936453,17200.517962029873,13769.094322745272,negativo,Não,não se aplica,2.0,Não
+Carnaval 2025 - 11,CARNA2025-72,Evento,Festivo,nublado,19274.717010916575,25287.558422278376,91780.49933887087,positivo,Sim,ruim,3.0,Não
+Pets News - 5,PETSNE-79,Ativação,Notícias,nublado,15485.558448781168,15002.375551507243,9809.867363449475,negativo,Não,não se aplica,2.0,Sim
+Pets News - 18,PETSNE-55,Ativação,Notícias,ensolarado,12360.605467098045,16399.918940408155,6261.790186335083,neutro,Sim,excelente,1.0,Sim
+Mundial Rock 2023 - 6,MROCK23-96,Evento,Comunidade,ensolarado,40007.1356381542,32060.497213225284,11722.68991552359,negativo,Não,bom,5.0,Sim
+Campanha do Agasalho 2023 - 16,CAMAGA2023-94,Social,Social,nublado,14276.167400581642,8916.272099558777,2984.4946466208544,positivo,Sim,não se aplica,2.0,Não
+Destino de Inverno 2024 - 2,DESINV2024-93,Turístico,Turismo,chuvoso,17487.79932951075,9426.578295558851,4855.830095052074,negativo,Sim,bom,5.0,Sim
+Mundial Rock 2023 - 10,MROCK23-79,Evento,Comunidade,frio,50486.097917882355,24128.018332918302,18134.50140302045,negativo,Sim,não se aplica,4.0,Sim
+Baby News - 12,BABYNE-18,Ativação,Notícias,chuvoso,46791.44451803942,10726.340536475856,3611.9842616775204,negativo,Sim,ruim,2.0,Não
+Baby News - 20,BABYNE-43,Ativação,Notícias,chuvoso,52930.25650821078,9082.216345066767,4641.318129753936,positivo,Sim,bom,3.0,Sim
+Pets News - 8,PETSNE-79,Ativação,Notícias,nublado,15485.461078582079,17694.38717753385,10747.086258855301,neutro,Sim,bom,4.0,Sim
+Mundial Rock 2023 - 19,MROCK23-97,Evento,Comunidade,frio,56389.69422404649,25951.07145178473,12403.214461266261,neutro,Não,ruim,2.0,Sim
+Baby News - 10,BABYNE-42,Ativação,Notícias,frio,57806.95989271039,9578.964411478311,3233.186068191853,neutro,Não,não se aplica,2.0,Não
+Carnaval 2025 - 1,CARNA2025-71,Evento,Festivo,nublado,21490.73615788613,28949.20642013455,117355.84158195449,negativo,Sim,não se aplica,3.0,Sim
+Em evidência - 16,EVIDENCIA-93,Ativação,Diversidade,frio,18356.753201367235,20698.80176296696,5307.080124631445,positivo,Sim,excelente,1.0,Sim
+Baby News - 8,BABYNE-23,Ativação,Notícias,chuvoso,54193.40191926039,10913.006261677292,3378.5440125462133,negativo,Sim,não se aplica,3.0,Não
+Carnaval 2025 - 14,CARNA2025-70,Evento,Festivo,nublado,17568.57722302112,25999.0991760385,127185.59747836729,negativo,Sim,ruim,2.0,Sim
+Campanha do Agasalho 2024 - 2,CAMAGA2024-83,Social,Social,nublado,30282.58141580253,16611.766057298002,5294.106173080112,negativo,Sim,excelente,2.0,Sim
+Carnaval 2024 - 5,CARNA2024-25,Evento,Festivo,ensolarado,38024.95351513634,15267.039534082001,19362.57416187217,positivo,Sim,ruim,2.0,Sim
+Carnaval 2025 - 14,CARNA2025-65,Evento,Festivo,ensolarado,16934.079057269108,29721.699761804884,95128.95321192648,neutro,Não,ruim,2.0,Sim
+Em evidência - 9,EVIDENCIA-57,Ativação,Diversidade,ensolarado,23866.565134696302,16847.695271110424,5121.1526748322585,neutro,Sim,excelente,5.0,Não
+Campanha do Agasalho 2023 - 14,CAMAGA2023-58,Social,Social,ensolarado,12538.849648927328,8348.606714313566,5473.603080928647,neutro,Sim,bom,2.0,Sim
+Carnaval 2025 - 7,CARNA2025-19,Evento,Festivo,ensolarado,21511.09111518424,27815.545287685345,113488.04222240752,negativo,Não,bom,3.0,Sim
+Carnaval 2025 - 1,CARNA2025-75,Evento,Festivo,nublado,19971.388487165284,29955.205585960233,71322.78137774377,negativo,Sim,não se aplica,4.0,Sim
+Destino SC Verão 2025 - 2,DESTI2025-37,Turístico,Turismo,chuvoso,56263.44634779684,23289.32813465824,12831.433532587456,positivo,Não,bom,3.0,Sim
+Destino de Inverno 2024 - 13,DESINV2024-77,Turístico,Turismo,nublado,12697.169059202515,11085.979848324203,7516.366558863344,positivo,Não,excelente,2.0,Sim
+Destino de Inverno 2024 - 3,DESINV2024-38,Turístico,Turismo,nublado,14955.88522432452,8059.038228753632,5972.724974644496,positivo,Não,ruim,4.0,Não
+Carnaval 2025 - 7,CARNA2025-96,Evento,Festivo,frio,17771.259791159227,32545.210958500433,127362.89393066995,positivo,Sim,não se aplica,5.0,Sim
+Pets News - 3,PETSNE-97,Ativação,Notícias,chuvoso,16059.771215817524,13791.234026333255,11121.47495743175,negativo,Sim,bom,4.0,Não
+Mundial Rock 2023 - 3,MROCK23-36,Evento,Comunidade,ensolarado,58348.761070931025,33491.847737177224,11038.452772213686,negativo,Sim,bom,4.0,Sim
+Mundial Rock 2024 - 10,MROCK24-16,Social,Comunidade,frio,42767.821110359284,8557.580141636065,3637.7734309028137,positivo,Não,não se aplica,1.0,Sim
+Carnaval 2025 - 20,CARNA2025-50,Evento,Festivo,chuvoso,21918.928025362162,31331.545027816206,75411.6542385258,neutro,Sim,excelente,4.0,Sim
+Baby News - 1,BABYNE-88,Ativação,Notícias,nublado,59083.53104078751,11538.125852854708,3570.0339570992305,neutro,Não,bom,3.0,Não
+Pets News - 4,PETSNE-34,Ativação,Notícias,chuvoso,13309.310339567883,17979.07431213983,11411.483216291035,positivo,Não,ruim,5.0,Sim
+Baby News - 8,BABYNE-14,Ativação,Notícias,frio,49437.86898579514,10060.811853217994,3694.2335899794016,neutro,Não,não se aplica,3.0,Sim
+Carnaval 2025 - 20,CARNA2025-47,Evento,Festivo,frio,23452.8967690584,26097.061094626224,124256.19095878187,neutro,Sim,bom,1.0,Não
+Campanha do Agasalho 2024 - 10,CAMAGA2024-73,Social,Social,nublado,33413.16989316809,13712.928918459023,4084.8127494276873,negativo,Sim,ruim,4.0,Não
+Carnaval 2025 - 8,CARNA2025-93,Evento,Festivo,ensolarado,18241.75487732625,29830.059038149655,90468.51431677,negativo,Sim,excelente,3.0,Não
+Carnaval 2024 - 1,CARNA2024-30,Evento,Festivo,chuvoso,36832.01301958,12697.5594621741,16565.099788372925,negativo,Sim,excelente,4.0,Não
+Baby News - 2,BABYNE-79,Ativação,Notícias,chuvoso,45180.88931301847,10890.507037046224,2971.2757828704907,positivo,Sim,não se aplica,5.0,Sim
+Em evidência - 7,EVIDENCIA-58,Ativação,Diversidade,chuvoso,21551.878991210735,16840.06344886588,4663.082612546006,positivo,Não,ruim,3.0,Não
+Destino SC Verão 2025 - 15,DESTI2025-59,Turístico,Turismo,nublado,44669.56284244498,21853.118031155875,10021.149989302075,negativo,Sim,não se aplica,5.0,Não
+Campanha do Agasalho 2023 - 5,CAMAGA2023-45,Social,Social,frio,13008.77006807784,11601.582556849498,3872.848366956337,neutro,Não,ruim,5.0,Sim
+Destino de Inverno 2024 - 4,DESINV2024-47,Turístico,Turismo,frio,12197.602120962218,10930.800755871947,4743.598506715251,neutro,Não,excelente,4.0,Sim
+Carnaval 2024 - 16,CARNA2024-51,Evento,Festivo,ensolarado,33834.04862246566,14057.699193836213,25145.36198339044,neutro,Não,excelente,4.0,Sim
+Mundial Rock 2023 - 8,MROCK23-42,Evento,Comunidade,frio,50767.92161724122,25123.719768100644,17395.899174981696,negativo,Não,ruim,2.0,Não
+Pets News - 3,PETSNE-68,Ativação,Notícias,ensolarado,17600.48965192072,16769.340874079615,8615.545170986952,positivo,Sim,ruim,2.0,Não
+Mundial Rock 2024 - 9,MROCK24-10,Social,Comunidade,ensolarado,53149.945670870125,10057.074831531805,2918.079804633809,neutro,Sim,não se aplica,1.0,Sim
+Pets News - 3,PETSNE-70,Ativação,Notícias,frio,14404.833334228051,13046.215237690998,10687.030682153996,negativo,Sim,não se aplica,4.0,Não
+Baby News - 3,BABYNE-43,Ativação,Notícias,nublado,43446.60591471839,10151.723497347662,3310.720292387024,neutro,Sim,não se aplica,2.0,Não
+Pets News - 2,PETSNE-16,Ativação,Notícias,frio,16197.319978193456,17056.666490777097,6752.630450756194,negativo,Não,excelente,1.0,Não
+Carnaval 2024 - 13,CARNA2024-12,Evento,Festivo,frio,34806.95323602087,14412.504915719046,21145.50346393096,neutro,Sim,ruim,4.0,Não
+Mundial Rock 2024 - 6,MROCK24-56,Social,Comunidade,chuvoso,54883.385907081494,11729.498520234141,4216.977714049664,neutro,Não,bom,5.0,Sim
+Pets News - 20,PETSNE-87,Ativação,Notícias,ensolarado,12795.282701539272,15742.811509446412,6439.945657275998,negativo,Não,excelente,2.0,Sim
+Pets News - 19,PETSNE-37,Ativação,Notícias,chuvoso,17601.79885923421,14604.280030085118,8189.402085781744,positivo,Sim,excelente,4.0,Não
+Campanha do Agasalho 2024 - 13,CAMAGA2024-36,Social,Social,ensolarado,35291.1506620537,16930.459420700332,5735.693755406533,neutro,Sim,não se aplica,4.0,Sim
+Destino SC Verão 2025 - 16,DESTI2025-84,Turístico,Turismo,ensolarado,57971.800609388556,23170.239867906632,13503.174456488447,neutro,Sim,ruim,2.0,Sim
+Mundial Rock 2023 - 2,MROCK23-51,Evento,Comunidade,nublado,45780.70905018619,28786.448161741297,13798.133672320666,negativo,Não,ruim,1.0,Sim
+Campanha do Agasalho 2024 - 4,CAMAGA2024-28,Social,Social,ensolarado,25000.59877564877,15233.876559827797,4287.443093876211,positivo,Não,excelente,4.0,Sim
+Carnaval 2024 - 4,CARNA2024-99,Evento,Festivo,ensolarado,38815.69352882788,12574.400975676945,15011.498529646688,negativo,Não,ruim,3.0,Não
+Carnaval 2024 - 15,CARNA2024-10,Evento,Festivo,chuvoso,40811.18250969511,14451.973358366511,23437.028887316654,negativo,Não,bom,4.0,Sim
+Destino SC Verão 2025 - 12,DESTI2025-95,Turístico,Turismo,frio,49987.17782992107,18880.927928572226,9538.557501235524,neutro,Não,não se aplica,3.0,Sim
+Baby News - 12,BABYNE-53,Ativação,Notícias,chuvoso,45361.08647298537,9249.00765587735,4772.265873484053,negativo,Sim,não se aplica,3.0,Não
+Pets News - 16,PETSNE-67,Ativação,Notícias,ensolarado,12132.69813149086,13529.674771217527,9503.829622352707,negativo,Sim,não se aplica,3.0,Não
+Carnaval 2024 - 13,CARNA2024-83,Evento,Festivo,chuvoso,44272.195791571285,12307.464230926244,24723.40380075159,neutro,Não,ruim,5.0,Não
+Em evidência - 10,EVIDENCIA-21,Ativação,Diversidade,frio,17464.64549773455,18802.848937455423,4184.604003824481,neutro,Não,não se aplica,4.0,Não
+Em evidência - 11,EVIDENCIA-74,Ativação,Diversidade,frio,18736.986875199833,16148.556893595249,5704.1847448131575,neutro,Não,excelente,4.0,Sim
+Mundial Rock 2023 - 13,MROCK23-17,Evento,Comunidade,ensolarado,58325.908894079206,24025.89394515416,13556.562725555636,positivo,Sim,não se aplica,1.0,Sim
+Carnaval 2024 - 2,CARNA2024-64,Evento,Festivo,ensolarado,34139.77256643822,14745.595393124018,18201.600861711195,negativo,Não,não se aplica,3.0,Não
+Carnaval 2025 - 7,CARNA2025-89,Evento,Festivo,frio,19941.542675920242,25640.79389360647,120850.00482401029,positivo,Sim,bom,5.0,Sim
+Mundial Rock 2023 - 17,MROCK23-14,Evento,Comunidade,nublado,45984.8426192074,27412.879875872506,17688.813605601892,negativo,Não,bom,4.0,Sim
+Carnaval 2025 - 12,CARNA2025-86,Evento,Festivo,ensolarado,20762.257622546862,32648.044540641997,71579.13680470179,positivo,Sim,não se aplica,2.0,Sim
+Mundial Rock 2023 - 3,MROCK23-54,Evento,Comunidade,nublado,53637.94114375058,34514.17769693081,16556.921899830584,neutro,Sim,ruim,2.0,Sim
+Destino de Inverno 2024 - 16,DESINV2024-97,Turístico,Turismo,frio,15705.872195070084,11610.555297273373,4795.840994392262,negativo,Não,ruim,4.0,Não
+Pets News - 7,PETSNE-59,Ativação,Notícias,ensolarado,15593.829834554557,15372.53530737754,9668.10112454584,negativo,Sim,bom,2.0,Sim
+Baby News - 5,BABYNE-45,Ativação,Notícias,chuvoso,51602.36760070399,11591.693567269655,4148.713051036409,positivo,Não,bom,3.0,Sim
+Carnaval 2024 - 10,CARNA2024-80,Evento,Festivo,chuvoso,40379.77150210719,16119.603090002895,21958.26461380974,negativo,Sim,não se aplica,5.0,Não
+Baby News - 12,BABYNE-86,Ativação,Notícias,frio,52847.08614539207,9961.159252705273,3605.3329261459758,negativo,Sim,ruim,4.0,Sim
+Baby News - 18,BABYNE-40,Ativação,Notícias,ensolarado,49535.122305101766,11323.374659752546,4995.323075339511,positivo,Não,ruim,3.0,Sim
+Campanha do Agasalho 2023 - 1,CAMAGA2023-77,Social,Social,ensolarado,12660.186032631544,8528.287579614316,4755.365074210186,positivo,Sim,bom,5.0,Sim
+Pets News - 18,PETSNE-83,Ativação,Notícias,ensolarado,16610.362916104037,13228.316052041795,7787.318597246469,neutro,Não,não se aplica,4.0,Sim
+Carnaval 2024 - 8,CARNA2024-33,Evento,Festivo,ensolarado,33178.24590611323,14806.185782872175,21361.62390872002,positivo,Não,excelente,1.0,Não
+Destino de Inverno 2024 - 12,DESINV2024-67,Turístico,Turismo,ensolarado,14004.77577575202,9230.261532609107,5918.107047238182,neutro,Não,ruim,3.0,Sim
+Pets News - 19,PETSNE-28,Ativação,Notícias,nublado,15428.196500518747,14489.274067269584,11433.271643128957,positivo,Não,bom,2.0,Sim
+Mundial Rock 2024 - 18,MROCK24-38,Social,Comunidade,chuvoso,48864.80065095432,9156.966423794585,4560.151231108765,neutro,Sim,ruim,4.0,Sim
+Carnaval 2024 - 11,CARNA2024-82,Evento,Festivo,ensolarado,47473.583822434586,17957.819445546655,25463.42242830448,positivo,Não,ruim,3.0,Não
+Baby News - 4,BABYNE-68,Ativação,Notícias,nublado,41513.23183704747,9958.306645250557,4873.960802777635,neutro,Sim,excelente,5.0,Não
+Mundial Rock 2023 - 7,MROCK23-90,Evento,Comunidade,frio,48443.43160140748,35791.33131569294,15583.715281880428,neutro,Sim,bom,5.0,Não
+Campanha do Agasalho 2023 - 7,CAMAGA2023-13,Social,Social,chuvoso,13335.227097459054,11653.98435363,3049.8081006193383,positivo,Sim,excelente,2.0,Não
