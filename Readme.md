@@ -11,7 +11,7 @@ Construir um modelo preditivo capaz de classificar corretamente se uma campanha 
 ---
 
 ## Estrutura do Projeto
-´´´
+´´´bash
 marketing-project/
 │
 ├── data/ # Dados brutos e limpos
