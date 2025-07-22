@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111167924103599377/46dbe6bf0e4e4481982334216bebb508/artifacts
+deleted_time: 1753115692758
+end_time: 1753115282810
+entry_point_name: ''
+experiment_id: '111167924103599377'
+lifecycle_stage: deleted
+run_id: 46dbe6bf0e4e4481982334216bebb508
+run_name: painted-wren-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753115281421
+status: 3
+tags: []
+user_id: josiele

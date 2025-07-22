@@ -1,0 +1,14 @@
+artifact_uri: /home/josiele/Projeto Marketing/marketing-classification/Notebooks/Notebooks/mlruns/538119522660806596/624386b1d5f340d39e9420a8d1a849ed/artifacts
+end_time: 1753104463042
+entry_point_name: ''
+experiment_id: '538119522660806596'
+lifecycle_stage: active
+run_id: 624386b1d5f340d39e9420a8d1a849ed
+run_name: masked-quail-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104461717
+status: 3
+tags: []
+user_id: josiele

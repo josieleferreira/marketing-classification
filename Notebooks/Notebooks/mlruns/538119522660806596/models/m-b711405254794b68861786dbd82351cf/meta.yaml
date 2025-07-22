@@ -1,0 +1,10 @@
+artifact_location: /home/josiele/Projeto Marketing/marketing-classification/Notebooks/Notebooks/mlruns/538119522660806596/models/m-b711405254794b68861786dbd82351cf/artifacts
+creation_timestamp: 1753104461733
+experiment_id: '538119522660806596'
+last_updated_timestamp: 1753104463040
+model_id: m-b711405254794b68861786dbd82351cf
+model_type: null
+name: model
+source_run_id: 624386b1d5f340d39e9420a8d1a849ed
+status: 2
+status_message: null

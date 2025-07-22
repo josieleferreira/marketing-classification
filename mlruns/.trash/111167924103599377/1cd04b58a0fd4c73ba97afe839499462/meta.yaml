@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/111167924103599377/1cd04b58a0fd4c73ba97afe839499462/artifacts
+deleted_time: 1753121583679
+end_time: 1753104985935
+entry_point_name: ''
+experiment_id: '111167924103599377'
+lifecycle_stage: deleted
+run_id: 1cd04b58a0fd4c73ba97afe839499462
+run_name: rare-moose-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753104984535
+status: 3
+tags: []
+user_id: josiele
